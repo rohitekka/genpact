@@ -11,7 +11,7 @@ public class Test {
 		int a=2,b=3,c=4,d=5,e=7;
 		float avg=(a+b+c+d+e)/5.0f;
 		System.out.println("average = "+avg);
-		System.out.println("4th version");
+		System.out.println("5th version");
 		
 		
 	}

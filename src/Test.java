@@ -11,8 +11,15 @@ public class Test {
 		int a=2,b=3,c=4,d=5,e=7;
 		float avg=(a+b+c+d+e)/5.0f;
 		System.out.println("average = "+avg);
+<<<<<<< HEAD
 		System.out.println("second version");
-		system.out.println("Line added by Sandeep");
+
+=======
+		System.out.println("4th version");
+>>>>>>> 4c11f5155c44d9f0d974314ae2bb57d66f25cdcf
+
+      		system.out.println("Line added by Sandeep");
+        
 		
 		
 	}

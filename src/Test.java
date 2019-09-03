@@ -12,6 +12,7 @@ public class Test {
 		float avg=(a+b+c+d+e)/5.0f;
 		System.out.println("average = "+avg);
 		System.out.println("second version");
+		system.out.println("Line added by Sandeep");
 		
 		
 	}
